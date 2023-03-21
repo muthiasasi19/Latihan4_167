@@ -9,8 +9,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Looping_167", "..\Looping_1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pemrograman_167", "..\pemrograman_167\pemrograman_167.vcxproj", "{0B987301-E32F-4BAE-ACB5-AD693F3E77C2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{964DEDFB-5370-4BE8-89DB-E0AD798560C0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -43,14 +41,6 @@ Global
 		{0B987301-E32F-4BAE-ACB5-AD693F3E77C2}.Release|x64.Build.0 = Release|x64
 		{0B987301-E32F-4BAE-ACB5-AD693F3E77C2}.Release|x86.ActiveCfg = Release|Win32
 		{0B987301-E32F-4BAE-ACB5-AD693F3E77C2}.Release|x86.Build.0 = Release|Win32
-		{964DEDFB-5370-4BE8-89DB-E0AD798560C0}.Debug|x64.ActiveCfg = Debug|x64
-		{964DEDFB-5370-4BE8-89DB-E0AD798560C0}.Debug|x64.Build.0 = Debug|x64
-		{964DEDFB-5370-4BE8-89DB-E0AD798560C0}.Debug|x86.ActiveCfg = Debug|Win32
-		{964DEDFB-5370-4BE8-89DB-E0AD798560C0}.Debug|x86.Build.0 = Debug|Win32
-		{964DEDFB-5370-4BE8-89DB-E0AD798560C0}.Release|x64.ActiveCfg = Release|x64
-		{964DEDFB-5370-4BE8-89DB-E0AD798560C0}.Release|x64.Build.0 = Release|x64
-		{964DEDFB-5370-4BE8-89DB-E0AD798560C0}.Release|x86.ActiveCfg = Release|Win32
-		{964DEDFB-5370-4BE8-89DB-E0AD798560C0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
