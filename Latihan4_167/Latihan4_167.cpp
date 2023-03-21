@@ -27,6 +27,4 @@ int main()
 		cout << "Pilihan (1/2/3/4): ";
 		cin >> pilihan;
 
-
-
-
+		
