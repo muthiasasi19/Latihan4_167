@@ -56,6 +56,6 @@ int main()
 		}
 	} while (pilihan |= 4);
 
-} 
+}
 
 
